@@ -1,0 +1,17 @@
+{
+  "name": "schuler-ipsum-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "drewbo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "schuler-ipsum": "^1.0.1",
+    "twitter": "^1.4.0"
+  }
+}
